@@ -9,3 +9,6 @@ Core features:
 - Clear all
 - Calculate total price
 - Delete selected items
+
+View online:
+https://iamjerryj.github.io/E-Cart/
